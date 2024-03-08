@@ -1,5 +1,7 @@
 # arm64-kernel-tools
 
+Cross compilation of latest linux kernel for arm64 devices
+
 # Kernel Compiler and Installer tools
 
 ## Usage:
